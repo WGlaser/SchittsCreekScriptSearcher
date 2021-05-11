@@ -6,10 +6,10 @@ directions = ["go","leave", "move", "abscond", "depart", "hightail", "journey","
 "set","ready", "roll",
 "driving","drive", "cruise", "cruising",
 "road","avenue", "boulevard", "course", "highway", "lane",
-"miles", "kilometers","mile","kilometer","distance"
-"left", "right", "continue", "straight","turn", "roundabout", "ahead"
+"miles", "kilometers","mile","kilometer","distance",
+"left", "right", "continue", "straight","turn", "roundabout", "ahead",
 "first", "second", "third", "uno", "dos", "tres", 
-"police", "detective"
+"police", "detective",
 "crash", "accident","issue", "calamity", "collision", "hazard",
  "traffic", "slow down", "gridlock",
  "speed", "pace", "velocity", "quickness", 
